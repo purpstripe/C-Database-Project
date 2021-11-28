@@ -1,0 +1,23 @@
+DEPARTMENT
+Computer Science
+CS 104
+Introduction to Computer Gaming
+OR MATH 141, MATH 161
+CS 105
+Introduction to Digital Media
+OR MATH 141, MATH 161
+CS 150
+Data Structures & Algorithms
+OR CS 104, CS 105
+CS 200
+Computers and Society
+
+CS 202
+Algorithms
+CS 150, MATH 182
+CS 205
+Software Engineering
+CS 150
+CS 320
+Databases
+CS 202, CS 205

@@ -1,0 +1,44 @@
+DEPARTMENT
+Physics
+PHYS 104
+Astronomy: The Solar System
+
+PHYS 106
+Physics of Music
+
+PHYS 111
+General Physics: Mechanics and Thermodynamics
+OR MATH 125, MATH 141, MATH 161
+PHYS 112
+General Physics: Electricity, Magnetism, and Optics
+OR MATH 125, MATH 141, MATH 161
+PHYS 131
+Physics I: Mechanics
+MATH 161
+PHYS 133
+Physics II: Electricity, Magnetism, and Waves
+OR PHYS 131, PHYS 151, MATH 162
+PHYS 152
+Accelerated Physics II: Electricity, Magnetism, and Optics
+PHYS 151, MATH 162
+PHYS 215
+Introduction to Quantum Physics
+OR PHYS 133, PHYS 152
+PHYS 216
+Topics in Contemporary Physics
+PHYS 215
+PHYS 327
+Advanced Classical Mechanics
+PHYS 218, MATH 264
+PHYS 335
+Thermal Physics
+PHYS 215, MATH 163
+PHYS 338
+Advanced Physics Laboratory
+PHYS 130, PHYS 215, PHYS 218, MATH 264
+PHYS 342
+Electromagnetic Fields
+OR PHYS 133, PHYS 152, PHYS 218, MATH 264
+PHYS 351
+Quantum Theory
+PHYS 215, PHYS 218, MATH 264
